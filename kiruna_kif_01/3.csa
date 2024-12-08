@@ -1,0 +1,75 @@
+V2.2
+$START_TIME:2024/08/24 20:56:04
+$EVENT:将棋ウォーズ(10分切れ負け)
+N+taso_taso 1級
+N-ozisanwaros 1級
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
+P+
+P-
++
+'詳細URL：https://www.shogi-extend.com/swars/battles/taso_taso-ozisanwaros-20240824_205604
+'ぴよ将棋：https://www.shogi-extend.com/swars/battles/taso_taso-ozisanwaros-20240824_205604/piyo_shogi
+'KENTO：https://www.shogi-extend.com/swars/battles/taso_taso-ozisanwaros-20240824_205604/kento
++7776FU,T2
+-3334FU,T3
++8822UM,T1
+'▲戦型：手損角交換型
+-3122GI,T4
++7968GI,T1
+-2233GI,T3
++6877GI,T0
+-4132KI,T1
++2888HI,T1
+'▲戦型：ダイレクト向かい飛車
+'▲備考：振り飛車
+-8384FU,T1
+'△備考：居飛車
++5948OU,T1
+-7162GI,T2
++4838OU,T1
+-6172KI,T0
++3828OU,T1
+-7283KI,T1
++3938GI,T1
+'▲囲い：片美濃囲い
+-5142OU,T1
++1716FU,T2
+-6364FU,T1
++7675FU,T27
+-6263GI,T3
++7776GI,T2
+-9394FU,T4
++8786FU,T2
+-9495FU,T8
++8977KE,T1
+'▲戦型：鬼殺し向かい飛車
+-8394KI,T2
++6958KI,T7
+'▲囲い：美濃囲い
+-1314FU,T15
++8685FU,T5
+-7374FU,T11
++8584FU,T4
+-9484KI,T5
++7685GI,T2
+-8483KI,T2
++0084FU,T3
+-8373KI,T3
++7574FU,T4
+-6374GI,T2
++8574GI,T1
+-7384KI,T2
++7463NG,T41
+-0087FU,T13
++0071KA,T11
+-8283HI,T5
++7153UM,T3
+%TORYO,T0
